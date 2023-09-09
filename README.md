@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kakashim0t0
-- 👀 I’m interested in games, anime and basketball
+- I'm currently a student aspiring to become a Robotics Engineer!
 
 <!---
 kakashim0t0/kakashim0t0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
