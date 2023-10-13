@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kakashim0t0
+- 👋 Hi, I’m @kakashim0t0, also known as Aaron Blanco
 - I'm currently a student aspiring to become a Robotics Engineer!
 
 <!---
